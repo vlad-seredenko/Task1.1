@@ -1,0 +1,4 @@
+﻿  Task 1.1.cpp
+D:\Task 1.1\Task 1.1\Task 1.1.cpp(5,23): warning C4305: инициализация: усечение из "double" в "float"
+D:\Task 1.1\Task 1.1\Task 1.1.cpp(17,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Task 1.1.vcxproj -> D:\Task 1.1\Debug\Task 1.1.exe
